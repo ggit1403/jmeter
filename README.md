@@ -7,7 +7,7 @@ Mục tiêu
   Dựa trên kết quả phân tích, đưa ra kết luận về hiệu năng của trang web.
 
 Kịch bản kiểm tra
-  hread Group:
+  Hread Group:
   Số lượng thread: 100
   Thời gian chạy: 180 giây
   Ramp-up period: 10 giây
